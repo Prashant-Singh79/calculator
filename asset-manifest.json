@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/http//:Prashant-Singh79.github.io/calculator%20/static/css/main.4c95d253.chunk.css",
+    "main.js": "/http//:Prashant-Singh79.github.io/calculator%20/static/js/main.f44db5df.chunk.js",
+    "main.js.map": "/http//:Prashant-Singh79.github.io/calculator%20/static/js/main.f44db5df.chunk.js.map",
+    "runtime-main.js": "/http//:Prashant-Singh79.github.io/calculator%20/static/js/runtime-main.b344fc0c.js",
+    "runtime-main.js.map": "/http//:Prashant-Singh79.github.io/calculator%20/static/js/runtime-main.b344fc0c.js.map",
+    "static/js/2.3810f5ed.chunk.js": "/http//:Prashant-Singh79.github.io/calculator%20/static/js/2.3810f5ed.chunk.js",
+    "static/js/2.3810f5ed.chunk.js.map": "/http//:Prashant-Singh79.github.io/calculator%20/static/js/2.3810f5ed.chunk.js.map",
+    "index.html": "/http//:Prashant-Singh79.github.io/calculator%20/index.html",
+    "static/css/main.4c95d253.chunk.css.map": "/http//:Prashant-Singh79.github.io/calculator%20/static/css/main.4c95d253.chunk.css.map",
+    "static/js/2.3810f5ed.chunk.js.LICENSE.txt": "/http//:Prashant-Singh79.github.io/calculator%20/static/js/2.3810f5ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b344fc0c.js",
+    "static/js/2.3810f5ed.chunk.js",
+    "static/css/main.4c95d253.chunk.css",
+    "static/js/main.f44db5df.chunk.js"
+  ]
+}
