@@ -25,6 +25,7 @@ const percent=(e)=>{
 
 }
 
+
 const backspace=()=>{
   let ans=input.toString();
   setShow(ans.slice(0,input.length-1))
@@ -34,6 +35,7 @@ const backspace=()=>{
 
 const equals=()=>{
 
+  
   setInput(eval(input))
 
 }
